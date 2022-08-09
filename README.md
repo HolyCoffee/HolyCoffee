@@ -9,8 +9,6 @@
 ![](https://img.shields.io/badge/-CSS-white?logo=css3&style=flat&labelColor=555555&color=555555)&nbsp;
 ![](https://img.shields.io/badge/-Go-white?logo=go&style=flat&labelColor=555555&color=555555)&nbsp;
 ![](https://img.shields.io/badge/-SH-white?logo=shell&style=flat&labelColor=555555&color=555555)&nbsp;
-![](https://img.shields.io/badge/-Rust-white?logo=rust&style=flat&labelColor=555555&color=555555)&nbsp;
-![](https://img.shields.io/badge/-Swift-white?logo=swift&style=flat&labelColor=555555&color=555555)&nbsp;
 
 ### Tools I use
 
